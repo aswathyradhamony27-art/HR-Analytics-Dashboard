@@ -60,4 +60,4 @@ This HR Analytics Dashboard provides insights into employee data, attrition tren
 - Education background influences attrition trends
 
  Dashboard Preview
-()
+(https://github.com/aswathyradhamony27-art/HR-Analytics-Dashboard/blob/main/Screenshot%202026-03-06%20152228.png)
